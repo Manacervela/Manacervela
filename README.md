@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manacervela
+- 👋 Hi, I’m Marion Cervela @Manacervela 
 - 🌱 I’m currently learning Python
 
 <!---
